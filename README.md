@@ -116,7 +116,7 @@ Project Link: [https://github.com/mennadc/association_manager_back](https://gith
 [issues-url]: https://github.com/mennadc/association_manager_back/issues
 
 [license-shield]: https://img.shields.io/github/license/mennadc/association_manager_back.svg?style=for-the-badge
-[license-url]: https://github.com/mennadc/association_manager_back/blob/master/LICENSE.txt
+[license-url]: https://github.com/mennadc/association_manager_back/blob/main/LICENSE.txt
 
 [Kotlin-shield]: https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white
 [Kotlin-url]: https://kotlinlang.org/
