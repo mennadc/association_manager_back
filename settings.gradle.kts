@@ -1,0 +1,1 @@
+rootProject.name = "association_manager_back"
